@@ -38,3 +38,24 @@
 .snout {
     color: rgb(115, 22, 186);
 }
+
+/*Table Styles*/
+table {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: black;
+
+    text-align: center;
+    padding: 7px;
+    margin: 20px;
+}
+
+table th {
+    font-style: bold;
+    background-color: rgb(66, 101, 101);
+    color: white;
+}
+
+tr:nth-child(even) {
+    background-color: rgb(144, 190, 190);
+}
