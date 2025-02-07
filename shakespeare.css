@@ -1,0 +1,40 @@
+.speech {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 12px;
+    color: black;
+}
+
+.stage-direction {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 12px;
+    color: black;
+    background-color:rgb(121, 190, 190)a;
+}
+
+.stage-direction:hover {
+    background-color:rgb(64, 101, 101)a;
+    color: white;
+}
+
+.name {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: black;
+}
+
+/* Name Styles */
+.bottom {
+    color: rgb(156, 100, 16);
+}
+
+.quince {
+    color: rgb(41, 137, 129);
+}
+
+.starveling {
+    color: rgb(18, 159, 28);
+}
+
+.snout {
+    color: rgb(115, 22, 186);
+}
